@@ -1,5 +1,7 @@
+--extra-index https://pypi.anaconda.org/scipy-wheels-nightly/simple scikit-learn
+--pre
 matplotlib
-numpy
+scikit-image
 pandas
+sphinx-gallery
 scikit-learn
-
