@@ -1,5 +1,5 @@
 matplotlib
 scikit-image
 pandas
-seaboard
+seaborn
 scikit-learn
